@@ -1,0 +1,14 @@
+export const SQL_KEYWORDS = {
+  SELECT: "SELECT",
+  FROM: "FROM",
+  JOIN: "JOIN",
+  INNER: "INNER",
+  LEFT: "LEFT",
+  RIGHT: "RIGHT",
+  FULL: "FULL",
+  CROSS: "CROSS",
+  WHERE: "WHERE",
+  GROUP_BY: "GROUP BY",
+  ORDER_BY: "ORDER BY",
+  HAVING: "HAVING"
+} as const
